@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 84610d67-25d0-4d49-9bd1-58f6a42cc436
   WEBAPP-NAME: az400-webapp-ferv2
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
